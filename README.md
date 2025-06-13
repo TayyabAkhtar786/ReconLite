@@ -23,7 +23,7 @@ python reconlite.py example.com [OPTIONS]
 python reconlite.py <target> [options]
  Option             Description                                             
  ------------------------------------------------------------------------ 
- -t / <target>   : **(Required)** Target domain or IP address              
+ -t / <target>   : (Required) Target domain or IP address              
  --whois         : Perform WHOIS Lookup                                    
  --dns           : Retrieve A, MX, TXT, and NS records                     
  --subdomains    : Discover subdomains using certificate transparency logs 

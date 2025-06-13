@@ -1,0 +1,8 @@
+# Python Dependencies for ReconLite
+python-whois==0.8.0
+dnspython==2.4.2
+requests==2.31.0
+
+#whatweb is not a Python package.
+
+sudo apt install whatweb

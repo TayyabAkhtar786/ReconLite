@@ -34,5 +34,5 @@ python reconlite.py <target> [options]
  --whatweb       : Run WhatWeb (requires it to be installed separately)    
  --report        : Save all output to a .txt report file                
  --verbose       : Show process steps in console
- -h              : Show help and usage guide                               
+ -h/--help       : Show help and usage guide                               
 

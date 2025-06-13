@@ -31,7 +31,7 @@ python reconlite.py <target> [options]
  --banner        : Grab HTTP banner (default: port 80)                     
  --tech          : Detect technologies using headers and page content      
  --whatweb       : Run WhatWeb (requires it to be installed separately)    
- --report        : Save all output to a `.txt` report file                
+ --report        : Save all output to a .txt report file                
  --verbose       : Show process steps in console
  -h              : Show help and usage guide                               
 

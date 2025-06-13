@@ -21,6 +21,7 @@ python reconlite.py example.com [OPTIONS]
 ### Basic Syntax [Options]:
 ```bash
 python reconlite.py <target> [options]
+
  Option             Description                                             
  ------------------------------------------------------------------------ 
  -t / <target>   : (Required) Target domain or IP address              
